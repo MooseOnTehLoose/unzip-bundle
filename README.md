@@ -1,2 +1,4 @@
 # unzip-bundle
-Unzips DC/OS Diagnostic bundles for you, across all platforms. 
+This tool will unzip a DC/OS bundle using pure go and no OS dependencies.
+
+Usage: unzip-bundle <source dc/os diag bundle> <optional destination path>
