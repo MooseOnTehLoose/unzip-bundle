@@ -1,4 +1,3 @@
-//copied and modified from https://golangcode.com/unzip-files-in-go/
 //This will unzip a go bundle into the current directory, or at a location supplied via arg3
 
 package main
